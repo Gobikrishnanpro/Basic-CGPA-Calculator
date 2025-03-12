@@ -1,4 +1,4 @@
-# 📌 Basci-CGPA Calculator in C
+# 📌 Basic-CGPA Calculator in C
 
 ## 📝 Description
 This **CGPA Calculator** is a simple C program that allows users to:
