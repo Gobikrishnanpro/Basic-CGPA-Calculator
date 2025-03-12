@@ -31,8 +31,8 @@ CGPA-Calculator/
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/CGPA-Calculator.git
-cd CGPA-Calculator
+git clone https://github.com/Gobikrishnanpro/Basic-CGPA-Calculator.git
+cd Basic-CGPA-Calculator
 ```
 
 ### 2️⃣ Compile the Code
